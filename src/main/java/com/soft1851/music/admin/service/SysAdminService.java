@@ -25,6 +25,6 @@ public interface SysAdminService extends IService<SysAdmin> {
      * @param name
      * @return
      */
-    SysAdmin getAdmin(String name);
+    SysAdmin getAdminAndRolesByName(String name);
 }
 

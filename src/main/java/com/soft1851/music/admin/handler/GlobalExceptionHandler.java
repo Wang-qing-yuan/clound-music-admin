@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
+import java.io.IOException;
+
 /**
  * @author wqy
  * @className GlobalExceptionHandler
@@ -73,6 +75,19 @@ public class GlobalExceptionHandler {
     public ResponseResult sendError(NullPointerException exception) {
         log.error(exception.getMessage());
         return ResponseResult.failure(ResultCode.RESULT_CODE_DATA_NONE);
+    }
+
+    /**
+     * IO异常的处理
+     *
+     * @param exception
+     * @return ResponseResult
+     */
+    @ExceptionHandler(value = {IOException.class})
+    @ResponseBody
+    public ResponseResult sendError(IOException exception) {
+        log.error(exception.getMessage());
+        return ResponseResult.failure(ResultCode.CAPTCHA_ERROR);
     }
 
 }
