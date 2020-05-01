@@ -2,283 +2,244 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1168368a-2ca0-4e67-b6ec-c9be506eb6d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_68.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_auth0_java_jwt_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_penggle_kaptcha_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-music-admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/FileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/FileServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/CloudMusicAdminApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/common/ResponseResult.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/common/ResultCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/CaptchaConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/CorsConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/MySqlGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/RedisConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/WebConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/CaptchaController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/RoleAdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/RoleAdminCopy1Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/RoleMenuController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/RoleMenuCopy1Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongCommentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongCopy1Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongLikeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongListController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongListMusicController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongTypeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SysAdminController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SysMenuController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SysRoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SysUserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/TypeSongListController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/UserSongListController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/VideoCommentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/VideoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/dto/LoginDto$LoginDtoBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/dto/LoginDto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleAdmin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleAdminCopy1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleMenuCopy1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/Song.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongComment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongCopy1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongLike.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongListMusic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysAdmin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysRole$SysRoleBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysRole.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/TypeSongList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/UserSongList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/Video.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/VideoComment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/exception/CustomException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/exception/JwtException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/filter/ChannelFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/handler/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/handler/GlobalResponseHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/handler/RequestWrapper$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/handler/RequestWrapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/interceptor/JwtInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/interceptor/LoginInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleAdminCopy1Mapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleAdminMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleMenuCopy1Mapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleMenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongCommentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongCopy1Mapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongLikeMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongListMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongListMusicMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongTypeMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysAdminMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysMenuMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysRoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysUserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/TypeSongListMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/UserSongListMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/VideoCommentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/VideoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RedisService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleAdminCopy1Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleAdminService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleMenuCopy1Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleMenuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongCommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongCopy1Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongLikeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongListMusicService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongListService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongTypeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysAdminService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysMenuService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysRoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/TypeSongListService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/UserSongListService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/VideoCommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/VideoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RedisServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleAdminCopy1ServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleAdminServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleMenuCopy1ServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleMenuServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongCommentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongCopy1ServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongLikeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongListMusicServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongListServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongTypeServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysAdminServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysMenuServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysRoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysUserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/TypeSongListServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/UserSongListServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/VideoCommentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/VideoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/util/JwtTokenUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/util/Md5Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/util/TreeBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/util/TreeNode$TreeNodeBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/util/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/RoleAdminCopy1Mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/RoleAdminMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/RoleMenuCopy1Mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/RoleMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SongCommentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SongCopy1Mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SongLikeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SongListMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SongListMusicMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SongMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SongTypeMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SysAdminMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SysMenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SysRoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SysUserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/TypeSongListMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserSongListMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/VideoCommentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/VideoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1851/cloudmusic/admin/CloudMusicAdminApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/soft1851/music/admin/service/impl/SysAdminServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/annotation/ControllerWebLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/annotation/ExcelVoAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/aspect/WebLogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/vo/SongVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/ExcelConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/ExportDataAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-music-admin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-music-admin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/common/ResultCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/common/ResultCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/config/CorsConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/FileController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/SongController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/SongController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/SongListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/SongListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/SysAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/controller/SysAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/dto/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/dto/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/RoleAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/RoleAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/RoleAdminCopy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/RoleAdminCopy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/RoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/RoleMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/RoleMenuCopy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/RoleMenuCopy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SongComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SongComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SongCopy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SongCopy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SongLike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SongLike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SongList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SongListMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SongListMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SongType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SongType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SysAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SysAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SysMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SysMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SysRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SysRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/SysUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/SysUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/TypeSongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/TypeSongList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/UserSongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/UserSongList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/entity/VideoComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/domain/entity/VideoComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/interceptor/JwtInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/interceptor/JwtInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleAdminCopy1Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleAdminCopy1Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleAdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleAdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleMenuCopy1Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleMenuCopy1Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleMenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/RoleMenuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongCommentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongCommentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongCopy1Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongCopy1Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongLikeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongLikeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongListMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongListMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongListMusicMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongListMusicMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongTypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SongTypeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysAdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysAdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysMenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysMenuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysRoleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/SysUserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/TypeSongListMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/TypeSongListMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/UserSongListMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/UserSongListMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/VideoCommentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/VideoCommentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/VideoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/mapper/VideoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/FileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleAdminCopy1Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleAdminCopy1Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleMenuCopy1Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleMenuCopy1Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleMenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/RoleMenuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongCommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongCommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongCopy1Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongCopy1Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongLikeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongLikeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongListMusicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongListMusicService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongListService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongTypeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SongTypeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysMenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysMenuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/SysUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/TypeSongListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/TypeSongListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/UserSongListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/UserSongListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/VideoCommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/VideoCommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/VideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/VideoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/FileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleAdminCopy1ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleAdminCopy1ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleAdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleMenuCopy1ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleMenuCopy1ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleMenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/RoleMenuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongCommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongCommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongCopy1ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongCopy1ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongLikeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongLikeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongListMusicServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongListMusicServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongListServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongTypeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SongTypeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysAdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysMenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysMenuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysRoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysRoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/TypeSongListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/TypeSongListServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/UserSongListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/UserSongListServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/VideoCommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/VideoCommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/VideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl/VideoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/ExcelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/FileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/RoleAdminCopy1Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/RoleAdminCopy1Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/RoleAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/RoleAdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/RoleMenuCopy1Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/RoleMenuCopy1Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/RoleMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/RoleMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SongCommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongCopy1Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SongCopy1Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongLikeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SongLikeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SongListMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongListMusicMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SongListMusicMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SongMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SongTypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SongTypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SysAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SysAdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SysMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SysMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SysRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SysRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/SysUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/SysUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/TypeSongListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/TypeSongListMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserSongListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserSongListMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/VideoCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/VideoCommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/VideoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/VideoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/soft1851/music/admin/service/impl/SysAdminServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/soft1851/music/admin/service/impl/SysAdminServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/common/ResultCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/common/ResultCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/CorsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SongListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SysAdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/controller/SysAdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/dto/LoginDto$LoginDtoBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/dto/LoginDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleAdminCopy1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/RoleMenuCopy1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongCopy1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongLike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongListMusic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SongType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysAdmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysRole$SysRoleBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/SysUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/TypeSongList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/UserSongList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/Video.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/entity/VideoComment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/handler/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/handler/GlobalExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/interceptor/JwtInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/interceptor/JwtInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/interceptor/LoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleAdminCopy1Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleAdminCopy1Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleAdminMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleAdminMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleMenuCopy1Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleMenuCopy1Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleMenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/RoleMenuMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongCommentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongCommentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongCopy1Mapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongCopy1Mapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongLikeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongLikeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongListMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongListMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongListMusicMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongListMusicMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongTypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SongTypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysAdminMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysAdminMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysMenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysMenuMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysRoleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysRoleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysUserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/SysUserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/TypeSongListMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/TypeSongListMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/UserSongListMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/UserSongListMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/VideoCommentMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/VideoCommentMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/VideoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/mapper/VideoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleAdminCopy1Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleAdminCopy1Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleAdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleAdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleMenuCopy1Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleMenuCopy1Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleMenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/RoleMenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongCommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongCommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongCopy1Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongCopy1Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongLikeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongLikeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongListMusicService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongListMusicService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongListService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongListService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongTypeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SongTypeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysAdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysAdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysMenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysMenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysRoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysRoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/SysUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/TypeSongListService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/TypeSongListService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/UserSongListService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/UserSongListService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/VideoCommentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/VideoCommentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/VideoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/VideoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleAdminCopy1ServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleAdminCopy1ServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleAdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleAdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleMenuCopy1ServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleMenuCopy1ServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleMenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/RoleMenuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongCommentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongCommentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongCopy1ServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongCopy1ServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongLikeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongLikeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongListMusicServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongListMusicServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongListServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongListServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongTypeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SongTypeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysAdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysAdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysMenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysMenuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysRoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysRoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysUserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/SysUserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/TypeSongListServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/TypeSongListServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/UserSongListServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/UserSongListServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/VideoCommentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/VideoCommentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/VideoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/service/impl/VideoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/util/JwtTokenUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/soft1851/music/admin/util/JwtTokenUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/RoleAdminCopy1Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/RoleAdminCopy1Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/RoleAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/RoleAdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/RoleMenuCopy1Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/RoleMenuCopy1Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/RoleMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/RoleMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SongCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SongCommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SongCopy1Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SongCopy1Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SongLikeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SongLikeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SongListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SongListMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SongListMusicMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SongListMusicMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SongMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SongMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SongTypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SongTypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SysAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SysAdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SysMenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SysMenuMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SysRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SysRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/SysUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/SysUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/TypeSongListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/TypeSongListMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserSongListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/UserSongListMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/VideoCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/VideoCommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mapper/VideoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/VideoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/soft1851/music/admin/service/impl/SysAdminServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/soft1851/music/admin/service/impl/SysAdminServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,25 +312,25 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/service/impl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/soft1851/music/admin/util" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.soft1851.music.admin.service.impl" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\service\impl" />
-      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\interceptor" />
-      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\handler" />
-      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\common" />
-      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\filter" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\util" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\util" />
+      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\service\impl" />
+      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\interceptor" />
+      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\handler" />
+      <recent name="D:\dev\cloud-music-admin\src\main\java\com\soft1851\music\admin\common" />
     </key>
   </component>
   <component name="RestServicesNavigator">
@@ -387,6 +348,19 @@
     </treeState>
   </component>
   <component name="RunManager" selected="Spring Boot.CloudMusicAdminApplication (1)">
+    <configuration name="JwtTokenUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.music.admin.util.JwtTokenUtil" />
+      <module name="cloud-music-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.music.admin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MySqlGenerator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.soft1851.music.admin.config.MySqlGenerator" />
       <module name="cloud-music-admin" />
@@ -445,6 +419,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JwtTokenUtil" />
         <item itemvalue="JUnit.SysAdminServiceTest.login" />
         <item itemvalue="Application.MySqlGenerator (1)" />
         <item itemvalue="Application.MySqlGenerator" />
@@ -487,7 +462,13 @@
       <workItem from="1587632704793" duration="3044000" />
       <workItem from="1587697953667" duration="8352000" />
       <workItem from="1587730166951" duration="637000" />
-      <workItem from="1587876232197" duration="5551000" />
+      <workItem from="1587876232197" duration="5703000" />
+      <workItem from="1587996102760" duration="1395000" />
+      <workItem from="1588058283454" duration="1167000" />
+      <workItem from="1588255267499" duration="1120000" />
+      <workItem from="1588258445330" duration="917000" />
+      <workItem from="1588307612536" duration="1704000" />
+      <workItem from="1588325037858" duration="524000" />
     </task>
     <task id="LOCAL-00001" summary="不同权限登录出来的菜单不同">
       <created>1587713029906</created>
@@ -496,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587713029906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="音乐管理">
+      <created>1587890935049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587890935049</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,64 +492,73 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="不同权限登录出来的菜单不同" />
-    <option name="LAST_COMMIT_MESSAGE" value="不同权限登录出来的菜单不同" />
+    <MESSAGE value="音乐管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="音乐管理" />
   </component>
   <component name="WindowStateProjectService">
     <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1587456092389">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587456092389" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1587713029010">
+    <state x="273" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588059094226">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587713029010" />
-    <state width="1237" height="188" key="GridCell.Tab.0.bottom" timestamp="1587886517287">
+    <state x="273" y="266" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1588059094226" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588058476760">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
-    <state width="1237" height="188" key="GridCell.Tab.0.center" timestamp="1587886517287">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1588058476760" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1587890933401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
-    <state width="1237" height="188" key="GridCell.Tab.0.left" timestamp="1587886517287">
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587890933401" />
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom" timestamp="1588325460880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
-    <state width="1237" height="188" key="GridCell.Tab.0.right" timestamp="1587886517287">
+    <state width="1237" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
+    <state width="1237" height="160" key="GridCell.Tab.0.center" timestamp="1588325460880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
-    <state width="1237" height="188" key="GridCell.Tab.1.bottom" timestamp="1587886517287">
+    <state width="1237" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
+    <state width="1237" height="160" key="GridCell.Tab.0.left" timestamp="1588325460880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
-    <state width="1237" height="188" key="GridCell.Tab.1.center" timestamp="1587886517287">
+    <state width="1237" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
+    <state width="1237" height="160" key="GridCell.Tab.0.right" timestamp="1588325460880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
-    <state width="1237" height="188" key="GridCell.Tab.1.left" timestamp="1587886517287">
+    <state width="1237" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
+    <state width="1237" height="160" key="GridCell.Tab.1.bottom" timestamp="1588325460880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
-    <state width="1237" height="188" key="GridCell.Tab.1.right" timestamp="1587886517287">
+    <state width="1237" height="160" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
+    <state width="1237" height="160" key="GridCell.Tab.1.center" timestamp="1588325460880">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="188" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1587886517287" />
+    <state width="1237" height="160" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
+    <state width="1237" height="160" key="GridCell.Tab.1.left" timestamp="1588325460880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
+    <state width="1237" height="160" key="GridCell.Tab.1.right" timestamp="1588325460880">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="160" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588325460880" />
     <state x="342" y="0" key="Maven.ArtifactSearchDialog" timestamp="1587439405401">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="342" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1587439405401" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1587713061134">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1587890957837">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587713061134" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587890957837" />
     <state x="378" y="59" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587456096731">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="378" y="59" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1587456096731" />
-    <state x="297" y="151" key="run.anything.popup" timestamp="1587730562390">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1588325246117">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1587730562390" />
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1588325246117" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 package com.soft1851.music.admin.service.impl;
 
-import com.soft1851.music.admin.dto.LoginDto;
+import com.soft1851.music.admin.domain.dto.LoginDto;
 import com.soft1851.music.admin.service.SysAdminService;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
